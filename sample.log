@@ -1,0 +1,8 @@
+2020-08-01 15:51:32,330-47666-ERROR-error log
+2020-08-01 15:51:32,330-47666-CRITICAL-critibal log
+2020-08-01 15:51:32,330-47666-ERROR-Taro raised error
+2020-08-01 15:51:32,330-47666-ERROR-division by zero
+Traceback (most recent call last):
+  File "/Users/shuuhei/PycharmProjects/python_programming/std_library/logging_sample1.py", line 19, in <module>
+    c = a / b
+ZeroDivisionError: division by zero

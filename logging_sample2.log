@@ -1,0 +1,7 @@
+2020-08-01 16:14:46,274-__main__-ERROR-エラーログ
+2020-08-01 16:14:46,275-__main__-CRITICAL-クリティカルログ
+2020-08-01 16:14:46,275-__main__-ERROR-division by zero
+Traceback (most recent call last):
+  File "/Users/shuuhei/PycharmProjects/python_programming/std_library/logging_sample2.py", line 35, in <module>
+    c = a/b
+ZeroDivisionError: division by zero
